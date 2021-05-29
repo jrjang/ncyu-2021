@@ -1,0 +1,13 @@
+.circleci/config.yml
+README.md
+data/ex0-mapping.txt
+data/ex5-diff.txt
+data/ex5-graph.txt
+ex0.txt
+ex5-diff.txt
+ex5-graph.txt
+scripts/ex0-verify.sh
+scripts/ex5-pre.sh
+scripts/ex5-test.sh
+scripts/ex5-verify.sh
+scripts/verify.sh
