@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 int main() {
+	printf("Hello World")
+	printf("1072945 edit!")
 	return 0;
 }
