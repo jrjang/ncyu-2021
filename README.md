@@ -1,16 +1,11 @@
-Example 3:
-
-1. 先執行以下指令, 會準備好 ncyu-2021-ex3 資料夾
-
-```
-cd $HOME
-bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex3/scripts/ex3-pre.sh) GITHUB_ACCOUNT
-```
-
-2. 切到 ncyu-2021-ex3 資料夾下. 依照投影片描述做修改
-
-3. 完成並commit後, 在 ncyu-2021-ex3 資料夾下, 執行以下指令
-
-```
-bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex3/scripts/ex3-test.sh) GITHUB_ACCOUNT
-```
+作業部分:
+Q:
+使用ex0-6寫作業時
+因為已經pull request過了
+所以無法從create pull request開始
+體驗完整的pull request流程
+A:
+建議下一屆可以用一個非上課使用的習題作為功課
+讓學弟妹體驗從create pull request到git push的完整體驗
+增加印象
+(希望學弟妹不要恨我
