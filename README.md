@@ -1,6 +1,6 @@
 Example 3:
 
-"test"
+"test123"
 
 1. 先執行以下指令, 會準備好 ncyu-2021-ex3 資料夾
 
