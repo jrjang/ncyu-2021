@@ -18,6 +18,8 @@ echo "Example 1" > ex1.txt
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex1/scripts/ex1-test.sh) GITHUB_ACCOUNT
+# curl 是透過 HTTP Protocol 下載和上傳檔案的指令
+# -s 代表靜音模式，不輸出任何東西
 ```
 
 GITHUB_ACCOUNT: github帳號
