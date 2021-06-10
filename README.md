@@ -6,4 +6,4 @@ Example 6:
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex6/scripts/ex6-test.sh) GITHUB_ACCOUNT
-```
+建議新增結合EX0~EX6所用到技巧的練習題。```
