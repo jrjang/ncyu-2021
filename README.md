@@ -1,4 +1,4 @@
-(C
+(Change)
 Example 6:
 
 1. 依照投影片描述做修改
