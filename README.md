@@ -15,6 +15,7 @@ echo "Example 1" > ex1.txt
 [注意] 只能有"一筆"commit
 
 3. 在 ncyu-2021-ex1 資料夾下, 執行以下指令
+[注意] 如果出現 Your commit number is more than 1 ，請刪除 ncyu-2021-ex1 資料夾，重新執行
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex1/scripts/ex1-test.sh) GITHUB_ACCOUNT
