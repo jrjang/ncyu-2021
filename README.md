@@ -21,3 +21,5 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex1/scripts/ex
 ```
 
 GITHUB_ACCOUNT: github帳號
+
+[注意] 如果出現 Your commit number is more than 1 ，請刪除 ncyu-2021-ex1 資料夾，重新執行
