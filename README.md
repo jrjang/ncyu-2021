@@ -9,7 +9,7 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex3/scripts/ex
 
 2. 切到 ncyu-2021-ex3 資料夾下
 
-3. 編輯 ex3.txt. 將 `return 1` ; 改成 `return -1` ;
+3. 編輯 ex3.txt , 將 `return 1` ; 改成 `return -1` ;
 
 4. 暫存修改部份
    提示 : 使用 `git stash` 指令
