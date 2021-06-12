@@ -22,3 +22,5 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex0/scripts/ex
 GITHUB_ACCOUNT: github帳號
 
 4. 回到 github 網頁，做 pull request
+
+[注意] 要記得儲存key以免下次上課若更換電腦則需要重設環境
