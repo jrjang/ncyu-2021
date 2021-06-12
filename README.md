@@ -18,7 +18,7 @@ Example 0:
 cd $HOME
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex0/scripts/ex0-test.sh) GITHUB_ACCOUNT
 ```
-
+123
 GITHUB_ACCOUNT: github帳號
 
 4. 回到 github 網頁，做 pull request
