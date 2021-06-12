@@ -1,0 +1,5 @@
+#查詢
+git config core.autocrlf
+#修改
+git config --global core.autocrlf true
+
