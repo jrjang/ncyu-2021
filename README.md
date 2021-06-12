@@ -10,6 +10,15 @@ git init			# 執行 git init
 echo "Example 1" > ex1.txt
 ```
 
+或者可以改成以下指令
+```
+git clone -b ex1 https://github.com/GITHUB_ACCOUNT/ncyu-2021.git ncyu-2021-ex1
+cd ncyu-2021-ex1
+echo "Example 1" > ex1.txt
+```
+
+GITHUB_ACCOUNT: github 帳號
+
 2. 將 ex1.txt 加入 Git local repository 並 commit
 
 [注意] 只能有"一筆"commit
