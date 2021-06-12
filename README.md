@@ -11,6 +11,7 @@ Example 0:
 電子郵件: s1043000@mail.ncyu.edu.tw
 
 [注意] 如果已經有在使用 Git ，請先備份家目錄的 .gitconfig 檔案
+[注意] Linux與windows環境有別，建議以指令$git config --global core.autocrlf true 修改設定，或可先由指令$git config core.autocrlf 查詢預設值。
 
 3. 在Git Bash中執行以下指令
 
@@ -22,3 +23,4 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex0/scripts/ex
 GITHUB_ACCOUNT: github帳號
 
 4. 回到 github 網頁，做 pull request
+
