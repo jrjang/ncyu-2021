@@ -1,7 +1,14 @@
 Example 6:
 
 1. 下載自己帳號的 ncyu-2021 project 至 ncyu-2021-ex6 資料夾中
-[提示] ncyu-2021 project 位置是 git@github.com:YOUR_ACCOUNT/ncyu-2021 
+[提示]
+有兩種下載方式， SSH 或 HTTPS URL 。建議優先使用 SSH URL 。如果使用 HTTPS URL ，則每次都需要輸入 github 密碼
+* SSH URL: git@github.com:GITHUB_ACCOUNT/ncyu-2021
+* HTTPS URL: https://github.com/GITHUB_ACCOUNT/ncyu-2021
+
+另外，使用 HTTPS URL 失敗時，可以試試以下動作:
+
+win + R -> control -> 使用者帳戶 -> 認證管理員 -> Windows 認證 -> 移除 github
 
 2. 加入 remote repository
 [提示] 
@@ -15,4 +22,4 @@ remote url 是 https://github.com/jrjang/ncyu-2021
 bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2021/ex6/scripts/ex6-test.sh) GITHUB_ACCOUNT
 ```
 
-3. 到 github ncyu-2021 project 下，切到 ex6 branch 進行 pull request
+5. 到 github ncyu-2021 project 下，切到 ex6 branch 進行 pull request
